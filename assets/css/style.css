@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.signUp{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+/* .signUp p{
+    line-height: 30px;
+    background-color: rgb(83, 217, 167);
+} */
+
+.mheader{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(83, 217, 167);
+    padding: 20px 0;
+    color: white;
+}
+
+section{
+    width: 80%;
+}
+li{
+    margin:10px 0;
+}
+
+.articleForm{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px 20px;
+    background-color: rgb(245,245,245);
+}
+/* 
+article input{
+    width: 18vw;
+    margin: auto;
+    line-height: 30px;
+}
+
+article textarea{
+    width: 18vw;
+    margin: auto;
+    line-height: 35px;
+}
+
+#submit{
+    background-color: rgb(83,217,167);
+    color: white;
+}
+
+#submit:hover{
+    background-color: rgb(53, 140, 108);
+} */
+
